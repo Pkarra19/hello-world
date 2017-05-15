@@ -1,2 +1,2 @@
-#bin/python
+#/bin/python2.7
 
